@@ -1,2 +1,2 @@
--- Prints text to the screnn
+-- Prints text to the screen
 print("Hello World!")
